@@ -25,3 +25,15 @@
                     document.getElementById('message').innerHTML = " Born on a <span>" + days[dayOfTheWeek] + "</span>, Your Akan Name's <span>" + maleAkanNames[dayOfTheWeek] + "</span>";
                         
             }
+
+            else {
+                document.getElementById('message').innerHTML ="Born on a <span>" + days[dayOfTheWeek] + "</span>, Your Akan Name's <span>" + femaleAkanNames[dayOfTheWeek] + "</span>";
+            }
+            break;
+        }
+        else {
+            document.getElementById('message').innerHTML = "<div>Please select a Gender</div>";
+        }
+    }
+}
+}
