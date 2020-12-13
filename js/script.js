@@ -7,3 +7,8 @@
     var myGender = document.getElementsByName("gender");
     var dateOfBirth = new Date(myBirthday);
     var dayOfTheWeek = dateOfBirth.getDay();
+
+    if(myBirthday === ""){
+        document.getElementById('message').innerHTML = "<div> You Didn't Submit a Valid Date!</div>";
+    }
+    //checking if date given is not greater than actual date.
