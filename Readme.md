@@ -1,7 +1,7 @@
 # AKAN NAMING
 ### This is a naming style in the Ghananian culture
 #### By Jackson Ikonya
-#### https://github.com/Jackson-coder-arch/Akan-Name-Generator
+#### https://jackson-coder-arch.github.io/Akan-Name-Generator/
 ## Description
 My Akan Generator entails a brief description of what it does, its more of you put your date of birth and it tells you when you were born and your name.
 #### Known Bugs
