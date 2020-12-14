@@ -1,6 +1,6 @@
 .section1{
     padding-top: 300px;
-    background-image: url("/image/Akan.jpg");
+    background-image: url("../image/Akan.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 100vh;
