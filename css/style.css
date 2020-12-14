@@ -7,6 +7,15 @@
     color: white;
 
 }
+.section3{
+    background-color: rgb(255, 201, 51);
+}
 .section2{
-    background-color: whitesmoke;
+    padding-top: 10%;
+    width=40%
+    height=400vh
+
+}
+.card{
+    color:black;
 }
